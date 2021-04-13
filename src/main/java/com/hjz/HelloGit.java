@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("create branch");
         System.out.println("branch conflict");
         System.out.println("online update");
+        System.out.println("clone test");
     }
 }
